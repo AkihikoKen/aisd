@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Kenan\source\repos\PolinomsTestProject\PolinomsTestProject\main.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  polinom.cpp
+C:\Users\Kenan\source\repos\PolinomsTestProject\PolinomsTestProject\polinom.cpp(12,15): warning C4018: <=: несоответствие типов со знаком и без знака
+  Создание кода...
+  PolinomsTestProject.vcxproj -> C:\Users\Kenan\source\repos\PolinomsTestProject\Debug\PolinomsTestProject.exe
